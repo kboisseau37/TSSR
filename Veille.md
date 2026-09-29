@@ -1,2 +1,2 @@
- https://feedly.com/i/my/me
-
+# Synthèse de la veille IT  
+# Liste de ressources:  
