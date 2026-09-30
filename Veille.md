@@ -23,6 +23,7 @@ https://www.laquadrature.net/en/
 https://x.com/InfosReseaux  
 https://x.com/bortzmeyer  
 MISC Magazine  : https://boutique.ed-diamond.com/  
+https://webikeo.fr/innovation-tech/system-administration-infrastructure  
 
 
 
