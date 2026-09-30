@@ -16,13 +16,11 @@ https://www.youtube.com/@ZenikaTv/
 https://music.amazon.fr/podcasts/webosaures  
 https://music.amazon.fr/podcasts/underscore_  
 https://www.privacytools.io/  
-
 https://www.next.ink  
 https://www.minimachines.net/  
 https://www.laquadrature.net/en/  
 https://x.com/InfosReseaux  
- 
-MISC Magazine  : https://boutique.ed-diamond.com/  
+ MISC Magazine  : https://boutique.ed-diamond.com/  
 https://webikeo.fr/innovation-tech/system-administration-infrastructure  
 
 
