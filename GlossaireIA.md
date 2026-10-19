@@ -77,16 +77,28 @@ Se dit d’un modèle préentraîné, c’est-à-dire déjà entraîné sur un e
 - Prompt  
 Consigne ou ensemble d’informations transmis à une IA pour orienter sa réponse. Un prompt peut préciser une tâche, un contexte, des exemples et le format attendu.
 - RAM(DRAM)  
-
-- RAG
-- Réseau neuronal
-- Robotisation
-- SLOP
-- singularité technologique
-- souveraineté
-- super intelligence
-- token
-- TPU
-- Transformer
-- vérification
-- wikipedia
+Sigle de Random Access Memory, ou mémoire vive. Elle conserve temporairement les données et programmes utilisés par l’ordinateur. Pour l’IA, sa capacité peut limiter la taille des modèles ou des données traitées.
+- RAG  
+Sigle de Retrieval-Augmented Generation, ou génération augmentée par recherche documentaire. Le système récupère des passages pertinents dans des sources, puis les fournit au modèle pour l’aider à répondre. Cela ne supprime pas toutes les erreurs.
+- Réseau neuronal  
+Modèle composé de couches d’unités de calcul reliées par des paramètres ajustables. L’entraînement modifie ces paramètres pour apprendre des relations dans les données. L’analogie avec les neurones biologiques reste limitée.
+- Robotisation  
+Intégration de l'intelligence artificielle au sein de machines physiques capables d'agir dans le monde réel (comme des bras articulés, des robots mobiles ou des humanoïdes) pour leur donner des capacités d'apprentissage, de perception et d'adaptation autonomes.
+- SLOP  
+Terme informel, souvent péjoratif, désignant des contenus générés par IA en grande quantité et de faible qualité ou de faible intérêt. Ce jugement sur le contenu ne désigne pas une catégorie technique précise.
+- Singularité technologique  
+Concept hypothétique désignant le moment où le développement de l'intelligence artificielle (IA) et des technologies associées dépassera l'intelligence et la compréhension humaine.
+- Souveraineté  
+Capacité à maîtriser ses choix en matière d’IA, notamment les données, les infrastructures, les modèles et les dépendances. Elle concerne aussi les conditions d’accès, d’hébergement et de contrôle des services.
+- Super intelligence  
+Notion hypothétique d’une intelligence artificielle qui dépasserait largement les capacités humaines dans la plupart des domaines cognitifs. Elle désigne un concept prospectif, à distinguer des performances spécialisées d’un modèle.
+- Token  
+Unité utilisée par un modèle pour représenter et traiter une entrée ou une sortie. Pour le texte, il peut s’agir d’un mot, d’un fragment de mot ou d’un signe ; un token ne correspond donc pas toujours à un mot.
+- TPU  
+Sigle de Tensor Processing Unit. Accélérateur développé par Google pour les calculs sur des tenseurs, c’est-à-dire des tableaux numériques, employés dans les réseaux neuronaux. Son architecture est spécialisée pour l’apprentissage automatique.
+- Transformer  
+Architecture de réseau neuronal utilisant des mécanismes d’attention pour pondérer les relations entre les éléments d’une entrée. Elle est à la base de nombreux modèles de langage et s’applique aussi aux images ou au son.
+- Vérification  
+Contrôle d’une réponse ou d’un résultat à l’aide de sources, de calculs ou de tests adaptés. Une seconde réponse d’IA ne constitue pas, à elle seule, une preuve indépendante.
+- wikipedia  
+Utilisation massive de Wikipédia pour nourrir les IA, et la position stricte de l'encyclopédie face à l'utilisation des IA pour rédiger ses articles.
