@@ -31,31 +31,53 @@ Technique d'apprentissage automatique qui consiste à transférer les compétenc
 - Ecoute  
 Dans un système vocal, capture et analyse de la parole ou de sons pour reconnaître une demande. Par extension, désigne l’attention portée au besoin de l’utilisateur ; cela n’implique ni conscience ni écoute permanente
 - Environnement  
+Ensemble des éléments avec lesquels un système interagit : utilisateur, fichiers, outils, logiciels, données ou monde physique. Dans l’apprentissage par renforcement, l’environnement fournit des observations et les conséquences des actions.
+- Frontière (modèle)  
+Désigne la toute dernière génération de modèles d'intelligence artificielle les plus puissants et polyvalents disponibles à un instant donné
+- Génératif  
+Branche de l’IA capable de créer de nouveaux contenus originaux (texte, images, sons, vidéos, code informatique) à partir d’une simple instruction en langage naturel appelée prompt
+- Gouvernance  
+Ensemble des responsabilités, règles et procédures encadrant la conception et l’utilisation de l’IA. Elle organise notamment les décisions, les contrôles, le suivi des performances et la gestion des incidents.
+- GPU  
+Sigle de Graphics Processing Unit, ou processeur graphique. Ses nombreuses unités de calcul permettent de réaliser efficacement des opérations en parallèle, notamment celles utilisées pour entraîner et exécuter des réseaux neuronaux.
+- Hallucination  
+Réponse générée qui présente comme crédibles des informations fausses, inventées ou non étayées. Elle peut concerner un fait, une citation ou une référence et ne suppose pas une intention de tromper.
+- Harnais  
+Infrastructure logicielle et l'environnement qui entourent un modèle de langage (LLM) pour transformer un simple moteur de génération de texte en un agent autonome et fiable.
+- HuggingFace  
+Plateforme et écosystème d’outils permettant de partager et d’utiliser des modèles, des jeux de données et des applications d’apprentissage automatique. La bibliothèque Transformers fait partie de cet écosystème.
+- Inférence  
+phase opérationnelle durant laquelle un modèle d’IA déjà entraîné applique ses connaissances pour analyser de nouvelles données et produire une prédiction, une décision ou une réponse en temps réel.
+- Injection  
+Dans ce contexte, peut désigner une injection de prompt : des instructions malveillantes cherchent à détourner une IA, directement ou par un contenu consulté. Plus largement, l’injection consiste à introduire des données ou du code dans un système.
+- Invasif  
+Qualifie un dispositif qui s’immisce fortement dans la vie privée ou dans une activité, par exemple par une collecte excessive de données. En médecine, le terme possède un autre sens lié à une intervention dans le corps.
+- Limite  
+Contrainte technique ou faiblesse d’un système : contexte maximal, mémoire, temps de calcul, connaissances incomplètes ou manque de fiabilité. Une limite dépend du modèle, de son environnement et de la tâche.
+- LLAMA  
+Famille de modèles d’IA développée par Meta, notamment pour le langage. Les usages autorisés et les conditions de diffusion dépendent de la version et de sa licence.
+- LLM  
+Sigle de Large Language Model, ou grand modèle de langage. Modèle entraîné sur de grandes quantités de données textuelles pour traiter et produire du langage, notamment en prédisant des tokens successifs.
+- Machine Learning  
+Ou "apprentissage automatique": Domaine de l’IA qui permet à des modèles d’apprendre des régularités à partir de données afin de réaliser des prédictions ou d’autres tâches.
+- Mathématique  
+Les mathématiques sont le langage de l’IA. Elles fournissent les outils et les cadres permettant de traiter les données, de construire des modèles et de faire des prédictions. Sans les mathématiques, les systèmes d’IA ne seraient pas en mesure d’apprendre à partir des données ou de s’améliorer au fil du temps.
+- Mémoire unifiée  
+Architecture matérielle dans laquelle le processeur principal (CPU) et le processeur graphique (GPU ou accélérateur IA) partagent un même espace de stockage physique en mémoire vive, plutôt que d'utiliser deux zones séparées (la RAM système d'un côté et la VRAM dédiée d'une carte graphique de l'autre).
+- OpenClaw  
+Agent d'intelligence artificielle open source et autonome qui ne se contente pas de générer du texte, mais exécute de véritables actions sur votre ordinateur ou vos systèmes.
+- OpenRouter  
+Plateforme donnant accès à des modèles de plusieurs fournisseurs au moyen d’une API commune. Elle facilite leur intégration dans une application et le choix du modèle à solliciter.
+- Paramètre 
+Valeur numérique interne (telle qu'un poids ou un biais) qu'un modèle apprend automatiquement à partir des données lors de sa phase d'entraînement.
+- Poids  
+Un paramètre numérique associé à une connexion entre deux neurones ou unités de calcul.
+- Pre-trained  
+Se dit d’un modèle préentraîné, c’est-à-dire déjà entraîné sur un ensemble de données avant son utilisation pour une tâche particulière. Il peut être utilisé directement ou adapté par un entraînement complémentaire, appelé ajustement fin (fine-tuning).
+- Prompt  
+Consigne ou ensemble d’informations transmis à une IA pour orienter sa réponse. Un prompt peut préciser une tâche, un contexte, des exemples et le format attendu.
+- RAM(DRAM)  
 
-- frontière (modèle)
-- génératif
-- gouvernance
-- GPU
-- hallucination
-- harnais
-- HuggingFace
-- inférence
-- injection
-- invasif
-- Limite
-- LLAMA
-- LLM
-- Machine Learning
-- mathématique
-- Mémoire unifiée
-- NVIDIA
-- OpenClaw
-- OpenRouter
-- Paramètre
-- poids
-- Pre-trained
-- prompt
-- RAM(DRAM)
 - RAG
 - Réseau neuronal
 - Robotisation
