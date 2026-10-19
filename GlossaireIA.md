@@ -16,7 +16,7 @@ Exécution d’une tâche ou d’un processus par un système avec moins d’int
 - _Autonomie_  
 Degré de liberté d’un système pour prendre des décisions et agir sans intervention humaine à chaque étape. Elle peut être limitée par des validations, des permissions ou un périmètre de tâches.
 # B
-- _Base de données_ 
+- _Base de données_   
 Ensemble organisé d’informations stockées pour être consultées et mises à jour. Une base vectorielle permet notamment de retrouver des éléments proches par leur représentation numérique, utile dans un système RAG.
 - _Bulle IA_  
 Désigne une surévaluation financière et un engouement spéculatif autour des entreprises de l'intelligence artificielle (notamment générative), dont les valorisations boursières et les investissements massifs dépassent largement la rentabilité réelle et les revenus actuellement générés
