@@ -11,7 +11,7 @@ Sigle d’Application Programming Interface, ou interface de programmation. Ense
 Processus par lequel un modèle ajuste ses paramètres à partir de données, d’exemples ou de récompenses. Il peut être supervisé, non supervisé, auto-supervisé ou par renforcement.
 - _Auto-apprentissage_  
 Apprentissage réalisé à partir de données ou d’interactions, sans programmer chaque règle. Le terme est général : il peut désigner un apprentissage autonome ou auto-supervisé, où les données fournissent elles-mêmes le signal d’entraînement. Une conversation ne réentraîne pas nécessairement le modèle.
-- _Automatisation_ 
+- _Automatisation_   
 Exécution d’une tâche ou d’un processus par un système avec moins d’interventions humaines. Elle peut reposer sur des règles fixes ou sur de l’IA et ne suppose pas une autonomie complète.
 - _Autonomie_  
 Degré de liberté d’un système pour prendre des décisions et agir sans intervention humaine à chaque étape. Elle peut être limitée par des validations, des permissions ou un périmètre de tâches.
@@ -25,7 +25,7 @@ Désigne une surévaluation financière et un engouement spéculatif autour des 
 Aptitude d’un système à accomplir une tâche, comme résumer ou programmer. Le mot peut aussi désigner une quantité technique : mémoire disponible, taille du contexte ou puissance de calcul. Le contexte détermine le sens.
 - _CUDA_  
 Plateforme de calcul et outils de programmation de NVIDIA permettant d’exploiter des GPU compatibles pour des calculs généraux, notamment en IA. CUDA désigne une technologie logicielle, pas le GPU lui-même.
-- _Cyberattaque par IA _ 
+- _Cyberattaque par IA _   
 Souvent qualifiée d'attaque « dopée », « alimentée » ou « pilotée » par l'IA, désigne l'utilisation de modèles d'apprentissage automatique (machine learning) et d'IA générative par des cybercriminels pour automatiser, accélérer et amplifier des offensives informatiques.
 # D
 - _Danger_  
@@ -52,7 +52,7 @@ Sigle de Graphics Processing Unit, ou processeur graphique. Ses nombreuses unit�
 Réponse générée qui présente comme crédibles des informations fausses, inventées ou non étayées. Elle peut concerner un fait, une citation ou une référence et ne suppose pas une intention de tromper.
 - _Harnais_  
 Infrastructure logicielle et l'environnement qui entourent un modèle de langage (LLM) pour transformer un simple moteur de génération de texte en un agent autonome et fiable.
-- _HuggingFace_ 
+- _HuggingFace_  
 Plateforme et écosystème d’outils permettant de partager et d’utiliser des modèles, des jeux de données et des applications d’apprentissage automatique. La bibliothèque Transformers fait partie de cet écosystème.
 # I
 - _Inférence_  
@@ -81,7 +81,7 @@ Agent d'intelligence artificielle open source et autonome qui ne se contente pas
 - _OpenRouter_  
 Plateforme donnant accès à des modèles de plusieurs fournisseurs au moyen d’une API commune. Elle facilite leur intégration dans une application et le choix du modèle à solliciter.
 # P
-- _Paramètre_ 
+- _Paramètre_  
 Valeur numérique interne (telle qu'un poids ou un biais) qu'un modèle apprend automatiquement à partir des données lors de sa phase d'entraînement.
 - _Poids_  
 Un paramètre numérique associé à une connexion entre deux neurones ou unités de calcul.
@@ -108,7 +108,7 @@ Capacité à maîtriser ses choix en matière d’IA, notamment les données, le
 - _Super intelligence_  
 Notion hypothétique d’une intelligence artificielle qui dépasserait largement les capacités humaines dans la plupart des domaines cognitifs. Elle désigne un concept prospectif, à distinguer des performances spécialisées d’un modèle.
 # T
-- _Token_ 
+- _Token_  
 Unité utilisée par un modèle pour représenter et traiter une entrée ou une sortie. Pour le texte, il peut s’agir d’un mot, d’un fragment de mot ou d’un signe ; un token ne correspond donc pas toujours à un mot.
 - _TPU_  
 Sigle de Tensor Processing Unit. Accélérateur développé par Google pour les calculs sur des tenseurs, c’est-à-dire des tableaux numériques, employés dans les réseaux neuronaux. Son architecture est spécialisée pour l’apprentissage automatique.
