@@ -1,3 +1,4 @@
+# A
 - Agent  
 Système qui utilise un modèle pour poursuivre un objectif, choisir des actions et éventuellement employer des outils. Son fonctionnement dépend des permissions, des ressources et du degré de contrôle humain prévu.
 - Algorithme  
@@ -14,60 +15,72 @@ Apprentissage réalisé à partir de données ou d’interactions, sans programm
 Exécution d’une tâche ou d’un processus par un système avec moins d’interventions humaines. Elle peut reposer sur des règles fixes ou sur de l’IA et ne suppose pas une autonomie complète.
 - Autonomie  
 Degré de liberté d’un système pour prendre des décisions et agir sans intervention humaine à chaque étape. Elle peut être limitée par des validations, des permissions ou un périmètre de tâches.
+# B
 - Base de données 
 Ensemble organisé d’informations stockées pour être consultées et mises à jour. Une base vectorielle permet notamment de retrouver des éléments proches par leur représentation numérique, utile dans un système RAG.
 - Bulle IA  
 Désigne une surévaluation financière et un engouement spéculatif autour des entreprises de l'intelligence artificielle (notamment générative), dont les valorisations boursières et les investissements massifs dépassent largement la rentabilité réelle et les revenus actuellement générés
+# C
 - Capacité  
 Aptitude d’un système à accomplir une tâche, comme résumer ou programmer. Le mot peut aussi désigner une quantité technique : mémoire disponible, taille du contexte ou puissance de calcul. Le contexte détermine le sens.
 - CUDA  
 Plateforme de calcul et outils de programmation de NVIDIA permettant d’exploiter des GPU compatibles pour des calculs généraux, notamment en IA. CUDA désigne une technologie logicielle, pas le GPU lui-même.
 - Cyberattaque par IA  
 Souvent qualifiée d'attaque « dopée », « alimentée » ou « pilotée » par l'IA, désigne l'utilisation de modèles d'apprentissage automatique (machine learning) et d'IA générative par des cybercriminels pour automatiser, accélérer et amplifier des offensives informatiques.
+# D
 - Danger  
 Source potentielle de dommage, comme une fuite de données ou une décision erronée. À distinguer du risque, qui tient compte de la probabilité de survenue et de la gravité des conséquences.
 - Distillation  
 Technique d'apprentissage automatique qui consiste à transférer les compétences d'un grand modèle d'intelligence artificielle complexe (l'enseignant) vers un modèle plus petit, plus léger et plus rapide (l'étudiant).
+# E
 - Ecoute  
 Dans un système vocal, capture et analyse de la parole ou de sons pour reconnaître une demande. Par extension, désigne l’attention portée au besoin de l’utilisateur ; cela n’implique ni conscience ni écoute permanente
 - Environnement  
 Ensemble des éléments avec lesquels un système interagit : utilisateur, fichiers, outils, logiciels, données ou monde physique. Dans l’apprentissage par renforcement, l’environnement fournit des observations et les conséquences des actions.
+# F
 - Frontière (modèle)  
 Désigne la toute dernière génération de modèles d'intelligence artificielle les plus puissants et polyvalents disponibles à un instant donné
+# G
 - Génératif  
 Branche de l’IA capable de créer de nouveaux contenus originaux (texte, images, sons, vidéos, code informatique) à partir d’une simple instruction en langage naturel appelée prompt
 - Gouvernance  
 Ensemble des responsabilités, règles et procédures encadrant la conception et l’utilisation de l’IA. Elle organise notamment les décisions, les contrôles, le suivi des performances et la gestion des incidents.
 - GPU  
 Sigle de Graphics Processing Unit, ou processeur graphique. Ses nombreuses unités de calcul permettent de réaliser efficacement des opérations en parallèle, notamment celles utilisées pour entraîner et exécuter des réseaux neuronaux.
+# H
 - Hallucination  
 Réponse générée qui présente comme crédibles des informations fausses, inventées ou non étayées. Elle peut concerner un fait, une citation ou une référence et ne suppose pas une intention de tromper.
 - Harnais  
 Infrastructure logicielle et l'environnement qui entourent un modèle de langage (LLM) pour transformer un simple moteur de génération de texte en un agent autonome et fiable.
 - HuggingFace  
 Plateforme et écosystème d’outils permettant de partager et d’utiliser des modèles, des jeux de données et des applications d’apprentissage automatique. La bibliothèque Transformers fait partie de cet écosystème.
+# I
 - Inférence  
 phase opérationnelle durant laquelle un modèle d’IA déjà entraîné applique ses connaissances pour analyser de nouvelles données et produire une prédiction, une décision ou une réponse en temps réel.
 - Injection  
 Dans ce contexte, peut désigner une injection de prompt : des instructions malveillantes cherchent à détourner une IA, directement ou par un contenu consulté. Plus largement, l’injection consiste à introduire des données ou du code dans un système.
 - Invasif  
 Qualifie un dispositif qui s’immisce fortement dans la vie privée ou dans une activité, par exemple par une collecte excessive de données. En médecine, le terme possède un autre sens lié à une intervention dans le corps.
+# L
 - Limite  
 Contrainte technique ou faiblesse d’un système : contexte maximal, mémoire, temps de calcul, connaissances incomplètes ou manque de fiabilité. Une limite dépend du modèle, de son environnement et de la tâche.
 - LLAMA  
 Famille de modèles d’IA développée par Meta, notamment pour le langage. Les usages autorisés et les conditions de diffusion dépendent de la version et de sa licence.
 - LLM  
 Sigle de Large Language Model, ou grand modèle de langage. Modèle entraîné sur de grandes quantités de données textuelles pour traiter et produire du langage, notamment en prédisant des tokens successifs.
+# M
 - Machine Learning  
 Ou "apprentissage automatique": Domaine de l’IA qui permet à des modèles d’apprendre des régularités à partir de données afin de réaliser des prédictions ou d’autres tâches.
 - Mathématique  
 Les mathématiques sont le langage de l’IA. Elles fournissent les outils et les cadres permettant de traiter les données, de construire des modèles et de faire des prédictions. Sans les mathématiques, les systèmes d’IA ne seraient pas en mesure d’apprendre à partir des données ou de s’améliorer au fil du temps.
 - Mémoire unifiée  
 Architecture matérielle dans laquelle le processeur principal (CPU) et le processeur graphique (GPU ou accélérateur IA) partagent un même espace de stockage physique en mémoire vive, plutôt que d'utiliser deux zones séparées (la RAM système d'un côté et la VRAM dédiée d'une carte graphique de l'autre).
+# O
 - OpenClaw  
 Agent d'intelligence artificielle open source et autonome qui ne se contente pas de générer du texte, mais exécute de véritables actions sur votre ordinateur ou vos systèmes.
 - OpenRouter  
 Plateforme donnant accès à des modèles de plusieurs fournisseurs au moyen d’une API commune. Elle facilite leur intégration dans une application et le choix du modèle à solliciter.
+# P
 - Paramètre 
 Valeur numérique interne (telle qu'un poids ou un biais) qu'un modèle apprend automatiquement à partir des données lors de sa phase d'entraînement.
 - Poids  
@@ -76,6 +89,7 @@ Un paramètre numérique associé à une connexion entre deux neurones ou unité
 Se dit d’un modèle préentraîné, c’est-à-dire déjà entraîné sur un ensemble de données avant son utilisation pour une tâche particulière. Il peut être utilisé directement ou adapté par un entraînement complémentaire, appelé ajustement fin (fine-tuning).
 - Prompt  
 Consigne ou ensemble d’informations transmis à une IA pour orienter sa réponse. Un prompt peut préciser une tâche, un contexte, des exemples et le format attendu.
+# R
 - RAM(DRAM)  
 Sigle de Random Access Memory, ou mémoire vive. Elle conserve temporairement les données et programmes utilisés par l’ordinateur. Pour l’IA, sa capacité peut limiter la taille des modèles ou des données traitées.
 - RAG  
@@ -84,6 +98,7 @@ Sigle de Retrieval-Augmented Generation, ou génération augmentée par recherch
 Modèle composé de couches d’unités de calcul reliées par des paramètres ajustables. L’entraînement modifie ces paramètres pour apprendre des relations dans les données. L’analogie avec les neurones biologiques reste limitée.
 - Robotisation  
 Intégration de l'intelligence artificielle au sein de machines physiques capables d'agir dans le monde réel (comme des bras articulés, des robots mobiles ou des humanoïdes) pour leur donner des capacités d'apprentissage, de perception et d'adaptation autonomes.
+# S
 - SLOP  
 Terme informel, souvent péjoratif, désignant des contenus générés par IA en grande quantité et de faible qualité ou de faible intérêt. Ce jugement sur le contenu ne désigne pas une catégorie technique précise.
 - Singularité technologique  
@@ -92,13 +107,16 @@ Concept hypothétique désignant le moment où le développement de l'intelligen
 Capacité à maîtriser ses choix en matière d’IA, notamment les données, les infrastructures, les modèles et les dépendances. Elle concerne aussi les conditions d’accès, d’hébergement et de contrôle des services.
 - Super intelligence  
 Notion hypothétique d’une intelligence artificielle qui dépasserait largement les capacités humaines dans la plupart des domaines cognitifs. Elle désigne un concept prospectif, à distinguer des performances spécialisées d’un modèle.
+# T
 - Token  
 Unité utilisée par un modèle pour représenter et traiter une entrée ou une sortie. Pour le texte, il peut s’agir d’un mot, d’un fragment de mot ou d’un signe ; un token ne correspond donc pas toujours à un mot.
 - TPU  
 Sigle de Tensor Processing Unit. Accélérateur développé par Google pour les calculs sur des tenseurs, c’est-à-dire des tableaux numériques, employés dans les réseaux neuronaux. Son architecture est spécialisée pour l’apprentissage automatique.
 - Transformer  
 Architecture de réseau neuronal utilisant des mécanismes d’attention pour pondérer les relations entre les éléments d’une entrée. Elle est à la base de nombreux modèles de langage et s’applique aussi aux images ou au son.
+# V
 - Vérification  
 Contrôle d’une réponse ou d’un résultat à l’aide de sources, de calculs ou de tests adaptés. Une seconde réponse d’IA ne constitue pas, à elle seule, une preuve indépendante.
-- wikipedia  
+# W
+- Wikipedia  
 Utilisation massive de Wikipédia pour nourrir les IA, et la position stricte de l'encyclopédie face à l'utilisation des IA pour rédiger ses articles.
